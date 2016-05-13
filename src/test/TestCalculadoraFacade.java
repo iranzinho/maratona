@@ -9,7 +9,7 @@ public class TestCalculadoraFacade {
 
 	private static final double TOLERANCIA = 0.00001;
 	CalculadoraFacade facade = new CalculadoraFacade();
-
+//recom
 	@Test
 	public void testSomar() {
 		Assert.assertEquals(0, facade.somar(0, 0), TOLERANCIA);
