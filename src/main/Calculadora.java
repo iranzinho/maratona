@@ -1,5 +1,5 @@
 package main;
-//calculadora
+//Pacote calculadora
 public class Calculadora {
 
 }
