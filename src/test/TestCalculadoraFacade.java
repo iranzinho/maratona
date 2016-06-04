@@ -9,7 +9,7 @@ public class TestCalculadoraFacade {
 
 	private static final double TOLERANCIA = 0.00001;
 	CalculadoraFacade facade = new CalculadoraFacade();
-//recomn
+//recomendo
 // funções e toleracias
 	@Test
 	public void testSomar() {
